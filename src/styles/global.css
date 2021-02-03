@@ -1,3 +1,14 @@
-html {
-  background-color: lavenderblush;
+* {
+  background-image: linear-gradient(
+    11deg,
+    #772b7a 24.44%,
+    #333333 24.44%,
+    #333333 50%,
+    #772b7a 50%,
+    #772b7a 74.44%,
+    #333333 74.44%,
+    #333333 100%
+  );
+  background-size: 235.84px 45.84px;
+  background-color: aliceblue;
 }
